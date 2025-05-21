@@ -61,7 +61,7 @@ App Logic	main.js	Main event listeners, input handling, and state management.
 
 
 🌐 Live Demo
-Visit the live demo 
+Visit the live demo -https://vikram043.github.io/My-Daily-Planner/
 
 
 
